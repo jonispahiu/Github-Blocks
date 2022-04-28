@@ -1,0 +1,26 @@
+.row img{
+    width: 200px;
+    height: 200px;
+}
+.title {
+    text-align: center;
+    border-top: 2px solid black;
+}
+.container{ 
+    background-color: grey;
+
+}
+.blue {background-color: blue;
+}
+.rose{
+    background-color: pink;
+}
+.white{
+    background-color: white;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.footer{text-align: center;}
